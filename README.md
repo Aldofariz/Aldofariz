@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Aldofariz/Aldofariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Aldo Fariz Fadilla</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
